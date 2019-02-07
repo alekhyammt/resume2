@@ -1,0 +1,4 @@
+exx functionalitys of vari
+1.var:used with in globaly
+2.let:with in the fnctionality only worked
+3.const:varible used ones in creation
